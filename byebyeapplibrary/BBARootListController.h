@@ -4,5 +4,5 @@
 -(void)twitter;
 -(void)repolink;
 -(void)respring:(id)sender;
-
+-(void)donate;
 @end
