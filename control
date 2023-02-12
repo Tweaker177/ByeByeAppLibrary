@@ -1,0 +1,9 @@
+Package: com.i0stweak3r.byebyeapplibrary
+Name: ByeByeAppLibrary
+Author: i0s_tweak3r
+Description: Disables the ability to swipe over and go to the App Library. Also has an option to keep empty folders, and an experimental option for allowing rotated layout of App Library.  Some other App Library and HS settings will probably be added to this package as well as I continue testing features on iOS 15+16.Main feature works iOS 13-16.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: i0stweak3r <djvs23@gmail.com>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
