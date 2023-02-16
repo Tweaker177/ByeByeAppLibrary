@@ -1,5 +1,5 @@
 ARCHS = arm64 arm64e
-TARGET := iphone:clang:latest:9.0
+TARGET := iphone:clang:latest:14.0
 CFLAGS = #-fobjc-arc
 DEBUG = 0
 FINAL_PACKAGE = 0
